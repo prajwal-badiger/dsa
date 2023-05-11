@@ -3,7 +3,7 @@
 
 #define SIZE_OF_ARR (10)
 #define TRUE (1)
-#define FLASE (0)
+#define FALSE (0)
 
 int binary_search(int[], int, int);
 
@@ -34,5 +34,5 @@ int binary_search(int *haystack, int size_of_arr, int needle) {
 
   } while (low < high);
 
-  return FLASE;
+  return FALSE;
 }

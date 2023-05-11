@@ -21,3 +21,7 @@
 - go through each value in the array and check if its the required value
 - O(N), grows linearly with input
 
+2. Binary Search
+- array should be ordered
+- divide the array and check which half the key is present.
+- O(logN)

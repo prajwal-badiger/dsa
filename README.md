@@ -29,3 +29,13 @@
 ### Two crystall ball problem
 given two crystall balls that will break if droped from high enough distance,
 determine the exact spot in which it will break in the most optimized way.
+
+
+### Sorting
+- array is sorted if any x[i] <= x[i + 1]
+
+1. Bubble Sort
+- iterate over the array and check if x[i] > x[i + 1] then swap each other
+- for each iteration the largest item is sorted
+- N(N+1)/2 = N^2 + N => O(N^2) // here N is insignificant
+

@@ -25,3 +25,7 @@
 - array should be ordered
 - divide the array and check which half the key is present.
 - O(logN)
+
+### Two crystall ball problem
+given two crystall balls that will break if droped from high enough distance,
+determine the exact spot in which it will break in the most optimized way.
